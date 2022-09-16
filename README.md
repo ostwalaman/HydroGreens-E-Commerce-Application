@@ -1,5 +1,7 @@
 <!-- HydroGreens E-Commerce Application -->
 
+This is an Application created using Flutter & Dart for HydroGreens Company.
+
 Steps to Execute the Program / application
 1. Open the Folder in Visual Studio Code (VSC)
 2. Select the 'main.dart' file in VSC
@@ -11,7 +13,7 @@ Steps to Execute the Program / application
 8. Now enter the following command: "flutter run"
 9. After this command, the program will start compiling in Xode
 
-<!-- HydroGreens E-Commerce Application
+HydroGreens E-Commerce Application
 Group No. 5
 Group Members:
 1. Aman Ostwal      (B150294205)
@@ -19,4 +21,4 @@ Group Members:
 3. Rajlaxmi Wagh    (B150294263)
 4. Asmita Rana      (B150294264)
 
-Guided By: Prof. Sunita Pawar -->
+<!-- Guided By: Prof. Sunita Pawar -->

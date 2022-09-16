@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800599514270",
+    "project_id": "hydrogreens-3d395",
+    "storage_bucket": "hydrogreens-3d395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800599514270:android:4ebf26d7550423383a6f8f",
+        "android_client_info": {
+          "package_name": "com.example.hydrogreens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800599514270-jk28p7esnumf7d4bvqbpuqh3s9c5n82q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAED5H_VuII_btrQbD0Wiu3xSEI143KxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800599514270-jk28p7esnumf7d4bvqbpuqh3s9c5n82q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
